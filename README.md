@@ -1,3 +1,6 @@
+Based on this repository by Udacity:
+https://github.com/udacity/android-kotlin-geo-fences/tree/starter
+
 Geofencing - Starter code
 ========================
 
